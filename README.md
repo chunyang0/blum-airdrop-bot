@@ -24,7 +24,7 @@ Blum Airdrop Bot automates interactions with the Blum airdrop platform. It inclu
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/dante4rt/blum-airdrop-bot.git
+    git clone https://github.com/chunyang0/blum-airdrop-bot.git
     ```
 
 2. **Navigate to the project directory:**
